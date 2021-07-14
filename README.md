@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Sati</h1>
+
 <h3 align="center">I design and build things for the web.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinqua&label=Profile%20views&color=0e75b6&style=plastic" alt="pinqua" /> </p>
