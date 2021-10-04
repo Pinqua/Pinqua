@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ML & AI**
 
-- 👨‍💻 All of my projects are available at [itspiyushsati.netlify.app](itspiyushsati.netlify.app)
+- 👨‍💻 All of my projects are available at [itspiyushsati.vercel.app](itspiyushsati.vercel.app)
 
 - 📫 How to reach me **piyushsati311999@gmail.com**
 
