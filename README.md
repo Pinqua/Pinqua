@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinqua&label=Profile%20views&color=0e75b6&style=plastic" alt="pinqua" /> </p>
 
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [itspiyushsati.vercel.app](https://itspiyushsati.vercel.app)
 
