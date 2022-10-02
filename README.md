@@ -6,6 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinqua&label=Profile%20views&color=0e75b6&style=plastic" alt="pinqua" /> </p>
 
+
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 - 🌱 I’m currently learning **Full Stack Development**
