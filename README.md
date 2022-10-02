@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Piyush Sati</h1>
+<h3 align="center">Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></h3>
 
 <h3 align="center">I design and build things for the web</h3>
 
