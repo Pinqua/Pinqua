@@ -1,7 +1,9 @@
 <h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Piyush Sati</h1>
 <h3 align="center">I design and build things for the web</h3>
 
-<p align="center"> <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="100%" height="460"  alt="" /></p>
+<!--<p align="left"> <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" height="360"  alt="" /></p>-->
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/69719134/210133807-1773fdae-ec16-4f2c-8a2c-10cead295b23.gif" height="360"  alt="" /></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinqua&label=Profile%20views&color=0e75b6&style=plastic" alt="pinqua" /> </p>
@@ -16,7 +18,7 @@
 - 📫 How to reach me **piyushsati311999@gmail.com**
 
 
-![pikrepo (2)](https://user-images.githubusercontent.com/69719134/210131791-bfeba945-2de2-4049-8dc0-17c565863de1.jpg)
+<p align="center"> <img src="https://user-images.githubusercontent.com/69719134/210131791-bfeba945-2de2-4049-8dc0-17c565863de1.jpg" height="280"  alt="" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
