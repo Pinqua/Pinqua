@@ -48,7 +48,7 @@
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pinqua&show_icons=true&theme=dark&locale=en&layout=compact" alt="pinqua" /></p>
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pinqua&show_icons=true&theme=dark&locale=en" alt="pinqua" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pinqua&show_icons=true&theme=auto&locale=en" alt="pinqua" /></p>
 
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pinqua&theme=dark" alt="pinqua" /></p>
 
