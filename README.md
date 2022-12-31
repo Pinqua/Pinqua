@@ -36,7 +36,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently working as **Software/Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [itspiyushsati.vercel.app](https://itspiyushsati.vercel.app)
 
