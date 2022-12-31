@@ -53,7 +53,7 @@
 <h3 align="left">Github Stats:</h3>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pinqua&show_icons=true&locale=en&layout=compact" alt="pinqua" /></p>
+<p style="padding:12px"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pinqua&show_icons=true&locale=en&layout=compact" alt="pinqua" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pinqua&show_icons=true&locale=en" alt="pinqua" /></p>
 
