@@ -1,3 +1,4 @@
+
 <h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Piyush Sati</h1>
 <h3 align="center">I design and build things for the web</h3>
 
@@ -6,7 +7,8 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/69719134/210133807-1773fdae-ec16-4f2c-8a2c-10cead295b23.gif" height="320"  alt="" /></p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pinqua&label=Profile%20views&color=0e75b6&style=plastic" alt="pinqua" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pinqua&label=Profile%20views&color=0e75b6&style=plastic" alt="pinqua" /></p>
 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
@@ -18,7 +20,6 @@
 - 📫 How to reach me **piyushsati311999@gmail.com**
 
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/69719134/210131791-bfeba945-2de2-4049-8dc0-17c565863de1.jpg" height="280"  alt="" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -27,6 +28,8 @@
 <a href="https://www.hackerrank.com/piyushsati1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="piyushsati1999" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/piyushsati1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="piyushsati1999" height="30" width="40" /></a>
 </p>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,6 +43,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pinqua&theme=dark" alt="pinqua" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pinqua" alt="pinqua" /></a> </p>
+
+
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/69719134/210131791-bfeba945-2de2-4049-8dc0-17c565863de1.jpg" height="210"  alt="" /></p>
+
 
 
 <p align="center">Show ❤️ by starring and forking repositories you find good! </p>
