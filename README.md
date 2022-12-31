@@ -54,19 +54,19 @@
 
 
 <p style="padding:12px"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pinqua&show_icons=true&locale=en&layout=compact" alt="pinqua" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pinqua&show_icons=true&locale=en" alt="pinqua" /></p>
+<br/>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pinqua&" alt="pinqua" /></p>
+<br/>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=pinqua&column=4&margin-w=15&margin-h=15" alt="pinqua" /></a></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pinqua&" alt="pinqua" /></p>
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=pinqua" alt="pinqua" /></a></p>
-
-
-
+<br/>
+<br/>
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/69719134/210131791-bfeba945-2de2-4049-8dc0-17c565863de1.jpg" height="210"  alt="" /></p>
 
-
+<br/>
 
 <p align="center">Show ❤️ by starring and forking repositories you find good! </p>
 <p align="center"><img src="https://camo.githubusercontent.com/7da528df692aea867b90800324488b633f5a8328d74c05a02c26483c0a267799/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5468616e6b73253230666f722532307669736974696e672d212d3145414544422e737667" alt="Thanks!" data-canonical-src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg" style="max-width:100%;"> </p>
