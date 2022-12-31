@@ -1,11 +1,18 @@
+<div align="center">
+<img src="https://user-images.githubusercontent.com/69719134/210140575-0f837ef8-a1db-4501-b2be-6ff6d9a14f55.gif" align="center" style="width: 100%"/>
+</div>  
 
-<h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Piyush Sati</h1>
+<!--<h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Piyush Sati</h1>-->
+<h3 align="center">I'm Piyush Sati</h3>
 <h3 align="center">I design and build things for the web</h3>
 
+<br/>
 <!--<p align="left"> <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" height="360"  alt="" /></p>-->
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/69719134/210133807-1773fdae-ec16-4f2c-8a2c-10cead295b23.gif" height="320"  alt="" /></p>
 
+<br/>
+<br/>
 
 <div align="left">
            <img align="left" src="https://komarev.com/ghpvc/?username=pinqua&&style=flat-square" alt="pinqua" />
